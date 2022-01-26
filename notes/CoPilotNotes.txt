@@ -1,0 +1,12 @@
+1. Offers suggestions to complete module requires including more complex ones
+    - dotenv module: offered full suggestion for require after just require('dote): require('dotenv').config()
+    - recognized that the app being built might want to be converted to a module
+2. Offers suggestion to add variables to the requires when not included
+3. Offered potential next line for getting app started with a framework see (Example1.png)
+4. Immediately suggested instantiation of previous framework see (Example2.png)
+5. Immediately suggested a view engine (see Example3.png)
+6. Immediately knew and suggested port environment code (see Example4.png)
+7. Suggested different view engine based of code being written (see Example5.png)
+8. Suggested setting to let static files (png, stylesheets to be loaded by views)
+9. Suggested html/ejs notation in views (see Example6.png)
+10. Suggested view names in controller (See Example7.png)
